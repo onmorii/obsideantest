@@ -2,9 +2,9 @@
 import clipboardScript from "./scripts/clipboard.inline"
 import clipboardStyle from "./styles/clipboard.scss"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { Analytics } from "@vercel/analytics/next"
+
 const Body: QuartzComponent = ({ children }: QuartzComponentProps) => {
-  return <div id="quartz-body">{children}<Analytics/></div>
+  return <div id="quartz-body">{children}</div>
 }
 
 Body.afterDOMLoaded = clipboardScript
