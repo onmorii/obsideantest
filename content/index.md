@@ -9,11 +9,11 @@ comments: true
 
 ยินดีต้อนรับสู่ **Lecture Notes ฟิสิกส์ทฤษฎีระดับปริญญาตรี**  
 ที่นี่รวบรวม **บันทึกการเรียน (lectures)**, **การพิสูจน์ (derivations)**, **โจทย์และวิธีทำ (problems)** และ **สูตรสรุป (formula sheets)**  
-จากรายวิชาฟิสิกส์ทฤษฎีหลัก ๆ ในระดับปริญญาตรี เพื่อใช้ทบทวน แชร์ และเชื่อมโยงความรู้ร่วมกัน
+จากรายวิชาฟิสิกส์ทฤษฎีหลัก ๆ ในระดับปริญญาตรี เพื่อใช้ทบทวน แชร์ และเชื่อมโยงความรู้ร่วมกัน เนื้อหาส่วนใหญ่ยังไม่อัพเดท แต่จะอัพเดทในอนาคต
 
 --
 
-## 📚 รายวิชาที่ครอบคลุม
+## 📚 รายวิชาที่ครอบคลุม (ยังไม่มี)
 - **Classical Mechanics (Taylor)** – หลักการ least action, Euler–Lagrange, Hamiltonian mechanics
 - **Electromagnetism (Griffiths)** – Maxwell equations, potentials, คลื่นแม่เหล็กไฟฟ้า
 - **Quantum Mechanics (Griffiths)** – postulates, Schrödinger equation, angular momentum
