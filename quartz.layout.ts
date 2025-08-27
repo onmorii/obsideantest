@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { Analytics } from "@vercel/analytics/next"
+
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
