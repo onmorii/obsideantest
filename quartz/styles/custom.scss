@@ -1,8 +1,14 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-table{
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td,
+table th {
+  border: 1px solid #ccc;
+  padding: 8px;
+  vertical-align: middle;  /* 👈 key */
 }
