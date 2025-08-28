@@ -10,13 +10,13 @@ export const sharedPageComponents: SharedLayout = {
       provider: 'giscus',
       options: {
           // from data-repo
-          repo: 'jackyzha0/quartz',
+          repo: 'onmorii/obsideantest',
           // from data-repo-id
-          repoId: 'MDEwOlJlcG9zaXRvcnkzODcyMTMyMDg',
+          repoId: 'R_kgDOPlKwyw',
           // from data-category
           category: 'Announcements',
           // from data-category-id
-          categoryId: 'DIC_kwDOFxRnmM4B-Xg6',
+          categoryId: 'DIC_kwDOPlKwy84CusIT',
           // from data-lang
           lang: 'en'
       }
