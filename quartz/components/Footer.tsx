@@ -13,7 +13,7 @@ export default ((opts?: Options) => {
         return (
             <footer class = {`${displayClass ?? ""}`}>
                 <p>
-                    nutphy © {year} mail:physics@nutphy.com
+                    nutphy © {year} <a href="mailto:physics@nutphy.com">Send email physics@nutphy.com</a>
                 </p>
 
 
