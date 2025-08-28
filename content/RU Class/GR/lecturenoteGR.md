@@ -41,10 +41,12 @@ $\Rightarrow$ It contrasts SR. (nothing can travel faster than C!)
 The response of matter to gravitation is unlversal, $\rightarrow m_{i} \equiv m_{g} \Rightarrow$ weak EP.
 
 $\Rightarrow$ Einstein's though EXP  
-![](https://cdn.mathpix.com/cropped/2025_08_27_7857a4b43ebcbca38f21g-1.jpg?height=340&width=907&top_left_y=1604&top_left_x=94)  
+![Einstein thought](img_1.png)
 thus Gravitational field is equivalent to acceleration.  
-![](https://cdn.mathpix.com/cropped/2025_08_27_7857a4b43ebcbca38f21g-1.jpg?height=501&width=1229&top_left_y=2087&top_left_x=125)  
-![](https://cdn.mathpix.com/cropped/2025_08_27_7857a4b43ebcbca38f21g-2.jpg?height=450&width=1266&top_left_y=79&top_left_x=79)
+![acceleration](img_2.png) 
+
+
+![free fall](img_3.png)
 
 If the box is large, Observer can detect tidal force $\Rightarrow$ this is not inertial frame. Weak EP : In a small region of spacetime, the motion of freely-falling particles (WEP) are the same in gravitational field and uniformly accelernted frame. from SR, m $\leftrightarrow$ E, $\bar{p}$
 
@@ -52,22 +54,21 @@ Einstein generalised WEP: Dropped particle $\rightarrow$ gravitational laws on p
 Einstein EP (EEP) : in a small enough region of spacetime, the (grav) law or physics reduce to SR; It's impossible to detect the existence al gravitational field by means al local experiments.
 
 note WEP does not imply EEP eg.
-![[Pasted image 20250827182701.png]]
+![WEP](Pasted image 20250827182701.png)
 :respect WEP, but violate EEP
 
 $\Rightarrow$ Further generalisation gravitational law $\rightarrow$ law of physics: strong EP. (SEP)  
 eg.
-![[Pasted image 20250827182848.png]]
+![EEP](img_7.png)
 : respect EEP but violate SEP * lead to $|\bar{a}|$.
 
 from WEP $\Rightarrow$ Gravity is not a force.
 * Curvature al spacetime  
-  ![](https://cdn.mathpix.com/cropped/2025_08_27_7857a4b43ebcbca38f21g-2.jpg?height=273&width=1286&top_left_y=2529&top_left_x=82)
-
+  ![curvature](img_4.png)
 In SR space \& time is inseperable  
 $\rightarrow$ time is also curved  
 eg)  
-![](https://cdn.mathpix.com/cropped/2025_08_27_7857a4b43ebcbca38f21g-3.jpg?height=489&width=460&top_left_y=354&top_left_x=234)  
+![example](img_5.png)
 the light spends $\Delta t=\frac{h}{c}$
 
 During this period, $\quad \Delta v=a \Delta t=\frac{a h}{c}$
@@ -79,14 +80,16 @@ $$
 
 
 At diff $h , \Delta f, \Delta \lambda \rightarrow$ Time ticks differently (time is curved  due to acceleration  ) (acceleration EP due to gravitation)  
-![](https://cdn.mathpix.com/cropped/2025_08_27_7857a4b43ebcbca38f21g-3.jpg?height=267&width=415&top_left_y=1393&top_left_x=154)
 
-## SEP
+![SEP](img_6.png)
+
+
 
 
 $\Rightarrow$ Gravity $\rightarrow$ Curvature of Spacetime (Differential Geometry) $\rightarrow$ locally flat.
-* Some Visualisation of Math on curved space.  
-    $\rightarrow$ Extrinsic Curvature
+
+## Some Visualisation of Math on curved space.  
+   $\rightarrow$ Extrinsic Curvature
         - object that we consider is embedded in higher dimensional space.
         - Unfortunately, there is no evidence that confirms the existence al such higher dim,"
         - It is not useful!  
@@ -124,4 +127,5 @@ $\Rightarrow$ Gravity $\rightarrow$ Curvature of Spacetime (Differential Geometr
 
 - Parallet transport  
   $\rightarrow$ transport that preserves the angle of vector for every point on spacetime.  
-  ![](https://cdn.mathpix.com/cropped/2025_08_27_7857a4b43ebcbca38f21g-4.jpg?height=204&width=712&top_left_y=1924&top_left_x=262)
+- ![Transport](img.png)
+ 
