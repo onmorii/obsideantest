@@ -6,6 +6,9 @@ comments: true
 ---
 
 # 🏠 UG Theoretical Physics — Lecture Notes
+> ⚠️ **Note**  
+> These are **personal study notes**. They may contain mistakes, incomplete arguments, or subjective emphasis.  
+> Feedback, corrections, and suggestions are always welcome(mail:physics@nutphy.com).
 
 This vault collects undergraduate-level theoretical physics notes.  
 Content is organized into **seven main areas**, covering both textbook-based lecture notes and in-class notes.
