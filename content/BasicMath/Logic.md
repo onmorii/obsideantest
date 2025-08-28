@@ -1,5 +1,8 @@
 ---
-title: Homepage
+title: Logic
+date: 2021-03-10 10:00:00
+category: BasicMath
+draft: false
 math: true
 mermaid: true
 comments: true
