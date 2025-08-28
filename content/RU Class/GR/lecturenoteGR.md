@@ -40,13 +40,16 @@ $\Rightarrow$ It contrasts SR. (nothing can travel faster than C!)
 
 The response of matter to gravitation is unlversal, $\rightarrow m_{i} \equiv m_{g} \Rightarrow$ weak EP.
 
-$\Rightarrow$ Einstein's though EXP  
-![Einstein thought](img_1.png)
+$\Rightarrow$ Einstein's thought EXP  
+
+<img src="img_8.png" style="display: block; border-radius:8px; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12);"/>
+
 thus Gravitational field is equivalent to acceleration.  
-![acceleration](img_2.png) 
+
+<img src="img_9.png" style="display: block; border-radius:8px; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12);"/>
 
 
-![free fall](img_3.png)
+<img src="img_3.png" style="display: block; border-radius:8px; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12);"/>
 
 If the box is large, Observer can detect tidal force $\Rightarrow$ this is not inertial frame. Weak EP : In a small region of spacetime, the motion of freely-falling particles (WEP) are the same in gravitational field and uniformly accelernted frame. from SR, m $\leftrightarrow$ E, $\bar{p}$
 
@@ -54,21 +57,29 @@ Einstein generalised WEP: Dropped particle $\rightarrow$ gravitational laws on p
 Einstein EP (EEP) : in a small enough region of spacetime, the (grav) law or physics reduce to SR; It's impossible to detect the existence al gravitational field by means al local experiments.
 
 note WEP does not imply EEP eg.
-![WEP](Pasted image 20250827182701.png)
+
+<img src="Pastedimage20250827182701.png" style="display: block; border-radius:8px; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12);"/>
+
 :respect WEP, but violate EEP
 
 $\Rightarrow$ Further generalisation gravitational law $\rightarrow$ law of physics: strong EP. (SEP)  
 eg.
-![EEP](img_7.png)
+
+<img src="img_7.png" style="display: block; border-radius:8px; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12);"/>
+
 : respect EEP but violate SEP * lead to $|\bar{a}|$.
 
 from WEP $\Rightarrow$ Gravity is not a force.
-* Curvature al spacetime  
-  ![curvature](img_4.png)
+* Curvature of spacetime  
+  <img src="img_4.png" style="display: block; border-radius:8px; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12);"/>
+
+  
 In SR space \& time is inseperable  
 $\rightarrow$ time is also curved  
 eg)  
-![example](img_5.png)
+
+<img src="img_5.png" style="display: block; border-radius:8px; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12);"/>
+
 the light spends $\Delta t=\frac{h}{c}$
 
 During this period, $\quad \Delta v=a \Delta t=\frac{a h}{c}$
@@ -80,8 +91,9 @@ $$
 
 
 At diff $h , \Delta f, \Delta \lambda \rightarrow$ Time ticks differently (time is curved  due to acceleration  ) (acceleration EP due to gravitation)  
+<img src="img_6.png" style="display: block; border-radius:8px; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12);"/>
 
-![SEP](img_6.png)
+
 
 
 
@@ -114,18 +126,21 @@ $\Rightarrow$ Gravity $\rightarrow$ Curvature of Spacetime (Differential Geometr
 
     
 > [!NOTE] the line
-> the lines are always parallel through out the plane.
-> <img src="Pasted image 20250827184438.png" style="display: block; margin: auto;">
+> the lines are always parallel through-out the plane.
+> <img src="Pastedimage20250827184438.png" style="display: block; border-radius:8px; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12);"/>
+
 
 
 > [!NOTE] the parallel curves
-> the parallel curves are not parallel through out curved spacetime
-> <img src="Pasted image 20250827184507.png" style="display: block; margin: auto;">
+> the parallel curves are not parallel through-out curved spacetime
+> <img src="Pastedimage20250827184507.png" style="display: block; border-radius:8px; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12);"/>
 
   
    
 
 - Parallet transport  
   $\rightarrow$ transport that preserves the angle of vector for every point on spacetime.  
-- ![Transport](img.png)
+<img src="img.png" style="display: block; border-radius:8px; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12);"/>
+
+
  
